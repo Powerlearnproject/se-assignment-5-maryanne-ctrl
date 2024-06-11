@@ -269,6 +269,12 @@ git add . - add all changes to the repo
 git commit -m"mysecondcommit"
 git push - push code to git repo
 
+
+
+Citation
+
+OpenAI. (2023). ChatGPT (version 5). OpenAI. Retrieved June 11, 2024, from https://www.openai.com/chatgpt
+
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
